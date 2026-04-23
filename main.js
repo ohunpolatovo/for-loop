@@ -32,6 +32,26 @@
 
 //=====================================================================
 // tub sonni topish
+// let son = +prompt("son kiriting");
+// let tubmi = true;
+
+// if (son < 2) {
+//   tubmi = false;
+// }
+
+// for (let i = 2; i < son; i++) {
+//   if (son % i == 0) {
+//     tubmi = false;
+//     break;
+//   }
+// }
+// if (tubmi) {
+//   console.log(son + " - tub son");
+// } else {
+//   console.log(son + " - tub son emas");
+// }
+
+//======================================================================
 
 // daftar orqasidagi kabi karra jadvalini chiqarib kelish
 
