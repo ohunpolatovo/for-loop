@@ -54,5 +54,7 @@
 //======================================================================
 
 // daftar orqasidagi kabi karra jadvalini chiqarib kelish
-
-//2 x 2 = 4
+// let n = +prompt("n sonini kiriting");
+// for (let i = 1; i <= 10; i++) {
+//   console.log(n + " x " + i + " = " + n * i);
+// }
