@@ -12,7 +12,15 @@
 //   console.log(narx * kg);
 // }
 //======================================================================
-// For5. A va B butun soni berilgan (A < B). A va B sonlari orasidagi barcha butun sonlarni chiqaruvchi programma tuzilsin. Bunda har bir son o'zining qiymaticha chiqarilsin. Ya'ni 3 soni 3 marta chiqariladi.
+// For5. A va B butun soni berilgan (A < B). A va B sonlari orasidagi barcha butun sonlarni chiqaruvchi programma tuzilsin
+//  Bunda har bir son o'zining qiymaticha chiqarilsin. Ya'ni 3 soni 3 marta chiqariladi.
+let a = +prompt("a sonini kiriting");
+let b = +prompt("b sonini kiriting");
+for (let i = a; i <= b; i++) {
+  for (let j = 0; j < i; j++) {
+    console.log(i);
+  }
+}
 
 // For6. Sonning bo’luvchilarini topish;
 
